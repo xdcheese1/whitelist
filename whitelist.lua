@@ -1,3 +1,3 @@
-local http_request = syn and syn.request or request;
-
-local body = http_request({Url = 'https://httpbin.org/get'; Method = 'GET'}).Body;
+return {
+"88551cef2ba8b7ff0068a9baa26add298986beec1ff45e2a36298e144b707b8861ba7649c5799466aaf0e78505e7fcf8131a69173d552389b96a3509c2d97e24"
+}
